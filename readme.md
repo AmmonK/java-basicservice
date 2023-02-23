@@ -19,6 +19,8 @@ Url to access application: http://localhost:8080
 
 Use [Postman](https://www.postman.com/downloads/) to easily keep track of requests
 
+[Spring Initializr Settings](https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.0.2&packaging=jar&jvmVersion=17&groupId=com.example&artifactId=basicservice&name=basicservice&description=Demo%20project%20for%20Spring%20Boot&packageName=com.example.basicservice&dependencies=devtools,web)
+
 ### Fork this repository to your own Github and create a branch for each exercise
 
 ---
